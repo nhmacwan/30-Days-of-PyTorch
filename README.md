@@ -1,9 +1,9 @@
 # 30 Days of PyTorch :fire:
 A 30-day learning journey to master PyTorch and deep learning! :rocket:
-![PyTorch Image](<p align="center">
+<p align="center">
   <img src="logo.png" width="100" height="100" alt="PyTorch Image">
 </p>
-)
+
 
 Overview :book:
 Welcome to 30 Days of PyTorch, an interactive guide to help you become proficient in PyTorch and deep learning. Each day, you will delve into a new topic, gaining hands-on experience and knowledge. From installation to advanced concepts, this journey will empower you to build powerful deep learning models with PyTorch. Let's dive in! :muscle:
