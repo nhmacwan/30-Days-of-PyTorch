@@ -1,4 +1,4 @@
-30 Days of PyTorch :fire:
+# 30 Days of PyTorch :fire:
 A 30-day learning journey to master PyTorch and deep learning! :rocket:
 
 Overview :book:
