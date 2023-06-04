@@ -1,5 +1,6 @@
 # 30 Days of PyTorch :fire:
 A 30-day learning journey to master PyTorch and deep learning! :rocket:
+![PyTorch Image](logo.png)
 
 Overview :book:
 Welcome to 30 Days of PyTorch, an interactive guide to help you become proficient in PyTorch and deep learning. Each day, you will delve into a new topic, gaining hands-on experience and knowledge. From installation to advanced concepts, this journey will empower you to build powerful deep learning models with PyTorch. Let's dive in! :muscle:
