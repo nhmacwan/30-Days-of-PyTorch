@@ -1,5 +1,9 @@
 # 30 Days of PyTorch :fire:
 A 30-day learning journey to master PyTorch and deep learning! :rocket:
+<p align="center">
+  <img src="logo.png" width="100" height="100" alt="PyTorch Image">
+</p>
+
 
 Overview :book:
 Welcome to 30 Days of PyTorch, an interactive guide to help you become proficient in PyTorch and deep learning. Each day, you will delve into a new topic, gaining hands-on experience and knowledge. From installation to advanced concepts, this journey will empower you to build powerful deep learning models with PyTorch. Let's dive in! :muscle:
@@ -64,3 +68,33 @@ Integrate PyTorch with TensorBoard to visualize training metrics and monitor mod
 
 Day 20: Sequence-to-Sequence Models :abc:
 Implement a sequence-to-sequence (Seq2Seq) model using PyTorch for machine translation tasks.
+
+Day 21: Distributed Training :globe_with_meridians:
+Explore PyTorch's distributed training capabilities for scaling up model training across multiple machines. Learn how to leverage parallelism and synchronization techniques to accelerate the training process and handle large datasets efficiently.
+
+Day 22: Regularization Techniques :shield:
+Experiment with different regularization techniques like dropout or L1/L2 regularization to improve model generalization. Understand how these techniques help prevent overfitting and improve the robustness of your deep learning models.
+
+Day 23: Custom Components :wrench:
+Implement a custom loss function or a custom layer in PyTorch to extend model capabilities. Dive deeper into PyTorch's flexibility by creating your own components and integrating them into your deep learning models.
+
+Day 24: Production-Ready Models with TorchScript :floppy_disk:
+Use PyTorch's torchscript to convert a PyTorch model to a production-ready format. Explore how to optimize and serialize your models, making them deployable in various production environments.
+
+Day 25: Model Interpretability :mag:
+Explore PyTorch's model interpretability tools, such as saliency maps or feature visualization. Gain insights into how your models make predictions and understand their inner workings.
+
+Day 26: Optimization Strategies :chart_with_upwards_trend:
+Optimize model training with techniques like learning rate scheduling, early stopping, or gradient clipping. Fine-tune your models to achieve better performance and convergence.
+
+Day 27: Natural Language Processing with Transformers :speech_balloon:
+Implement a transformer model using PyTorch for NLP tasks. Explore how transformers have revolutionized natural language processing and understand their architecture and applications.
+
+Day 28: Model Deployment :rocket:
+Learn about deploying PyTorch models in production environments, including techniques like model serialization and serving via REST APIs. Understand the necessary steps to make your models accessible and usable by others.
+
+Day 29: Model Compression :compression:
+Explore techniques for model compression and optimization, such as pruning, quantization, or knowledge distillation, to reduce model size or improve inference speed. Discover methods to make your models more efficient without sacrificing performance.
+
+Day 30: Reflection and Showcase :sparkles:
+Reflect on your PyTorch learning journey, showcase your favorite project or experiment, and plan for future explorations in deep learning and PyTorch. Celebrate your achievements and set new goals to continue your growth in this exciting field.
